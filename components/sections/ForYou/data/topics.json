@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "title": "New",
+      "value": "new"
+    },
+    {
+      "id": "2",
+      "title": "Playlists",
+      "value": "playlists"
+    },
+    {
+      "id": "3",
+      "title": "Episodes",
+      "value": "episodes"
+    }
+  ]

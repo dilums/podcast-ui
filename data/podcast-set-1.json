@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cla3zul5f00012a6dpu7f9zkj",
+    "title": "About Self-love",
+    "episodes": "10",
+    "image": "https://res.cloudinary.com/dfjmpbosw/image/upload/v1668934073/sample%20square/5_jqxo03.jpg",
+    "author": "Yasmine Booker",
+    "isFavourite": "",
+    "link": "",
+    "desc": ""
+  },
+  {
+    "id": "cla3zwosl00022a6d9b4uec6b",
+    "title": "All About Space",
+    "episodes": "10",
+    "image": "https://res.cloudinary.com/dfjmpbosw/image/upload/v1668934073/sample%20square/6_j5azvd.jpg",
+    "author": "Aiza Shea",
+    "isFavourite": "",
+    "link": "",
+    "desc": ""
+  },
+  {
+    "id": "cla3zwox500032a6d19kaejnb",
+    "title": "Love Kit",
+    "episodes": "7",
+    "image": "https://res.cloudinary.com/dfjmpbosw/image/upload/v1668934075/sample%20square/8_xkzfdb.jpg",
+    "author": "Yasmine Booker",
+    "isFavourite": "",
+    "link": "",
+    "desc": ""
+  },
+  {
+    "id": "cla3zwp4000042a6dapxdm8b8",
+    "title": "How to Save a Planet",
+    "episodes": "15",
+    "image": "https://res.cloudinary.com/dfjmpbosw/image/upload/v1668934076/sample%20square/13_lkqpa4.jpg",
+    "author": "Yasmine Booker",
+    "isFavourite": "",
+    "link": "",
+    "desc": ""
+  }
+]
